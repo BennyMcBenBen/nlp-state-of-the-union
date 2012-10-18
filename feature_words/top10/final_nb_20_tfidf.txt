@@ -1,0 +1,17 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Most Informative Features
+                 parents = 0.0            [1790, : [1990, =      8.2 : 1.0
+                   thank = 0.0            [1790, : [1990, =      8.2 : 1.0
+                spending = 0.0            [1790, : [1990, =      8.1 : 1.0
+                    jobs = 0.0            [1790, : [1990, =      8.1 : 1.0
+                programs = 0.0            [1790, : [1990, =      8.1 : 1.0
+                      re = 0.0            [1790, : [1990, =      8.1 : 1.0
+                  tariff = 0.0            [1990, : [1830, =      7.5 : 1.0
+                currency = 0.0            [1990, : [1870, =      7.5 : 1.0
+                 indians = 0.0            [1990, : [1870, =      7.5 : 1.0
+                columbia = 0.0            [1990, : [1870, =      7.3 : 1.0
+Assembling test feature sets...
+Classifying test accuracy
+0.407079646018

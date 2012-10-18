@@ -1,0 +1,17 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Most Informative Features
+                economic = 0              [1790, : [1950, =     13.9 : 1.0
+                 program = 0              [1790, : [1950, =     13.8 : 1.0
+                  soviet = 0              [1790, : [1950, =     13.8 : 1.0
+                   spain = 0              [1950, : [1830, =     13.7 : 1.0
+               americans = 0              [1790, : [1950, =     13.2 : 1.0
+                 britain = 0              [1950, : [1830, =     13.0 : 1.0
+                minister = 0              [1950, : [1830, =     13.0 : 1.0
+                 vessels = 0              [1950, : [1830, =     13.0 : 1.0
+                 british = 0              [1950, : [1830, =     13.0 : 1.0
+                   naval = 0              [1950, : [1870, =     12.3 : 1.0
+Assembling test feature sets...
+Classifying test accuracy
+0.743362831858

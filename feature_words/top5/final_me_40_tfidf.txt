@@ -1,0 +1,229 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Grad eval #0
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: rmatvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: matvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+  norm of gradient = 1.30258035062
+Function eval # 0
+  dual is  1.79175946923
+Function eval # 1
+  dual is  2.01329216417
+Grad eval #1
+  norm of gradient = 4.89401272673
+Function eval # 2
+  dual is  1.55901240071
+Grad eval #2
+  norm of gradient = 2.13898281007
+Iteration # 0
+Function eval # 3
+  dual is  1.55901240071
+Function eval # 4
+  dual is  1.27421723287
+Grad eval #3
+  norm of gradient = 1.46761108433
+Iteration # 1
+Function eval # 5
+  dual is  1.27421723287
+Function eval # 6
+  dual is  0.892262491162
+Grad eval #4
+  norm of gradient = 1.45412359591
+Iteration # 2
+Function eval # 7
+  dual is  0.892262491162
+Function eval # 8
+  dual is  1.01681539826
+Grad eval #5
+  norm of gradient = 3.89601260526
+Function eval # 9
+  dual is  0.712554253965
+Grad eval #6
+  norm of gradient = 1.03834998821
+Iteration # 3
+Function eval # 10
+  dual is  0.712554253965
+Function eval # 11
+  dual is  0.595249222826
+Grad eval #7
+  norm of gradient = 1.36956408577
+Iteration # 4
+Function eval # 12
+  dual is  0.595249222826
+Function eval # 13
+  dual is  0.422125424662
+Grad eval #8
+  norm of gradient = 1.11830000443
+Function eval # 14
+  dual is  0.303783561645
+Grad eval #9
+  norm of gradient = 1.18731867887
+Iteration # 5
+Function eval # 15
+  dual is  0.303783561645
+Function eval # 16
+  dual is  0.114661947675
+Grad eval #10
+  norm of gradient = 0.303086259004
+Iteration # 6
+Function eval # 17
+  dual is  0.114661947675
+Function eval # 18
+  dual is  0.0726832376917
+Grad eval #11
+  norm of gradient = 0.155780968409
+Iteration # 7
+Function eval # 19
+  dual is  0.0726832376917
+Function eval # 20
+  dual is  0.0572036877629
+Grad eval #12
+  norm of gradient = 0.10552101435
+Iteration # 8
+Function eval # 21
+  dual is  0.0572036877629
+Function eval # 22
+  dual is  0.0457481234925
+Grad eval #13
+  norm of gradient = 0.0844355715917
+Function eval # 23
+  dual is  0.0371359115382
+Grad eval #14
+  norm of gradient = 0.18795485689
+Function eval # 24
+  dual is  0.0320289184297
+Grad eval #15
+  norm of gradient = 0.0946376833013
+Iteration # 9
+Function eval # 25
+  dual is  0.0320289184297
+Function eval # 26
+  dual is  0.0258456709119
+Grad eval #16
+  norm of gradient = 0.0463106944909
+Iteration # 10
+Function eval # 27
+  dual is  0.0258456709119
+Function eval # 28
+  dual is  0.0241366718992
+Grad eval #17
+  norm of gradient = 0.0333237977877
+Function eval # 29
+  dual is  0.0230395297622
+Grad eval #18
+  norm of gradient = 0.0504762606694
+Iteration # 11
+Function eval # 30
+  dual is  0.0230395297622
+Function eval # 31
+  dual is  0.0208805178451
+Grad eval #19
+  norm of gradient = 0.0383806761603
+Function eval # 32
+  dual is  0.0168865997902
+Grad eval #20
+  norm of gradient = 0.0409626268533
+Iteration # 12
+Function eval # 33
+  dual is  0.0168865997902
+Function eval # 34
+  dual is  0.0154339539664
+Grad eval #21
+  norm of gradient = 0.0250852268289
+Function eval # 35
+  dual is  0.0145959738134
+Grad eval #22
+  norm of gradient = 0.0412846618697
+Iteration # 13
+Function eval # 36
+  dual is  0.0145959738134
+Function eval # 37
+  dual is  0.0131189097084
+Grad eval #23
+  norm of gradient = 0.0326045614832
+Function eval # 38
+  dual is  0.00979840702945
+Grad eval #24
+  norm of gradient = 0.0180986193599
+Iteration # 14
+Function eval # 39
+  dual is  0.00979840702945
+Function eval # 40
+  dual is  0.00950395873169
+Grad eval #25
+  norm of gradient = 0.0125453126285
+Function eval # 41
+  dual is  0.00922663545926
+Grad eval #26
+  norm of gradient = 0.0137926927537
+Iteration # 15
+Function eval # 42
+  dual is  0.00922663545926
+Function eval # 43
+  dual is  0.00905465435334
+Grad eval #27
+  norm of gradient = 0.0124415750616
+Function eval # 44
+  dual is  0.0085829703567
+Grad eval #28
+  norm of gradient = 0.0134011175568
+Function eval # 45
+  dual is  0.00843446168716
+Grad eval #29
+  norm of gradient = 0.0221617758545
+Iteration # 16
+Function eval # 46
+  dual is  0.00843446168716
+Function eval # 47
+  dual is  0.00798696204396
+Grad eval #30
+  norm of gradient = 0.0198952358274
+Function eval # 48
+  dual is  0.00656435382822
+Grad eval #31
+  norm of gradient = 0.0145522679065
+Function eval # 49
+  dual is  0.00435843647986
+Grad eval #32
+  norm of gradient = 0.0239087544276
+Iteration # 17
+Function eval # 50
+  dual is  0.00435843647986
+Function eval # 51
+  dual is  0.00381742625533
+Grad eval #33
+  norm of gradient = 0.0176710616329
+Function eval # 52
+  dual is  0.00266458375674
+Grad eval #34
+  norm of gradient = 0.00498962103996
+Iteration # 18
+Function eval # 53
+  dual is  0.00266458375674
+Optimization terminated successfully.
+         Current function value: 0.002665
+         Iterations: 19
+         Function evaluations: 35
+         Gradient evaluations: 35
+  -1.840 soviet==0.0 and label is '[1950,1989]'
+   1.227 president==0.0 and label is '[1790,1829]'
+  -1.205 re==0.0 and label is '[1990,2029]'
+   1.151 federal==0.0 and label is '[1790,1829]'
+  -1.121 inflation==0.0 and label is '[1950,1989]'
+  -1.093 mediterranean==0.0 and label is '[1790,1829]'
+  -1.088 medicare==0.0 and label is '[1990,2029]'
+  -1.053 coverage==0.0 and label is '[1990,2029]'
+  -1.013 programs==0.0 and label is '[1950,1989]'
+   0.972 america==0.0 and label is '[1790,1829]'
+Assembling test feature sets...
+Classifying test accuracy
+0.87610619469
+Calculating precision and recall...
+[1790,1829] : (Precision=0.869565217391, Recall=1.0, F1=0.93023255814)
+[1830,1869] : (Precision=0.863636363636, Recall=0.95, F1=0.904761904762)
+[1870,1909] : (Precision=0.9, Recall=0.9, F1=0.9)
+[1910,1949] : (Precision=0.866666666667, Recall=0.65, F1=0.742857142857)
+[1950,1989] : (Precision=0.826086956522, Recall=0.904761904762, F1=0.863636363636)
+[1990,2029] : (Precision=1.0, Recall=0.833333333333, F1=0.909090909091)

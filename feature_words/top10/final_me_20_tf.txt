@@ -1,0 +1,130 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Grad eval #0
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: rmatvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: matvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+  norm of gradient = 1.27851322046
+Function eval # 0
+  dual is  2.3978952728
+Function eval # 1
+  dual is  1.32336053382
+Grad eval #1
+  norm of gradient = 1.59340222871
+Iteration # 0
+Function eval # 2
+  dual is  1.32336053382
+Function eval # 3
+  dual is  0.640560768395
+Grad eval #2
+  norm of gradient = 1.22763795752
+Iteration # 1
+Function eval # 4
+  dual is  0.640560768395
+Function eval # 5
+  dual is  0.155007509292
+Grad eval #3
+  norm of gradient = 0.623299882295
+Iteration # 2
+Function eval # 6
+  dual is  0.155007509292
+Function eval # 7
+  dual is  0.0260893626657
+Grad eval #4
+  norm of gradient = 0.0606589725423
+Iteration # 3
+Function eval # 8
+  dual is  0.0260893626657
+Function eval # 9
+  dual is  0.0230960184832
+Grad eval #5
+  norm of gradient = 0.0408414381736
+Function eval # 10
+  dual is  0.0210020696556
+Grad eval #6
+  norm of gradient = 0.0567137245036
+Iteration # 4
+Function eval # 11
+  dual is  0.0210020696556
+Function eval # 12
+  dual is  0.019296413233
+Grad eval #7
+  norm of gradient = 0.049757653697
+Function eval # 13
+  dual is  0.0157629742443
+Grad eval #8
+  norm of gradient = 0.0428965298231
+Iteration # 5
+Function eval # 14
+  dual is  0.0157629742443
+Function eval # 15
+  dual is  0.0141637301419
+Grad eval #9
+  norm of gradient = 0.0319054349363
+Function eval # 16
+  dual is  0.0114308088998
+Grad eval #10
+  norm of gradient = 0.0154930178283
+Iteration # 6
+Function eval # 17
+  dual is  0.0114308088998
+Function eval # 18
+  dual is  0.0111909647477
+Grad eval #11
+  norm of gradient = 0.0143488148029
+Function eval # 19
+  dual is  0.0103972010379
+Grad eval #12
+  norm of gradient = 0.011708603971
+Function eval # 20
+  dual is  0.00922972200454
+Grad eval #13
+  norm of gradient = 0.0221768276707
+Iteration # 7
+Function eval # 21
+  dual is  0.00922972200454
+Function eval # 22
+  dual is  0.00877321297872
+Grad eval #14
+  norm of gradient = 0.0203960442813
+Function eval # 23
+  dual is  0.00722597630583
+Grad eval #15
+  norm of gradient = 0.0150246019909
+Function eval # 24
+  dual is  0.00376083447635
+Grad eval #16
+  norm of gradient = 0.0075762518759
+Iteration # 8
+Function eval # 25
+  dual is  0.00376083447635
+Optimization terminated successfully.
+         Current function value: 0.003761
+         Iterations: 9
+         Function evaluations: 17
+         Gradient evaluations: 17
+   0.625 shall==0 and label is '[1990,2009]'
+  -0.599 re==0 and label is '[1990,2009]'
+  -0.590 coverage==0 and label is '[1990,2009]'
+  -0.575 soviet==0 and label is '[1970,1989]'
+   0.560 many==1 and label is '[1790,1809]'
+   0.552 general==0 and label is '[1970,1989]'
+  -0.537 gentlemen==0 and label is '[1790,1809]'
+  -0.536 tonight==0 and label is '[1970,1989]'
+  -0.503 iraq==0 and label is '[1990,2009]'
+   0.488 business==0 and label is '[1810,1829]'
+  -0.473 jobs==0 and label is '[1970,1989]'
+   0.465 america==0 and label is '[1790,1809]'
+   0.465 powers==0 and label is '[1990,2009]'
+  -0.465 terror==0 and label is '[1990,2009]'
+   0.454 measures==0 and label is '[1990,2009]'
+   0.452 american==0 and label is '[1790,1809]'
+   0.447 federal==0 and label is '[1790,1809]'
+  -0.439 jobs==0 and label is '[1990,2009]'
+   0.438 action==0 and label is '[1790,1809]'
+   0.433 economic==3 and label is '[1990,2009]'
+Assembling test feature sets...
+Classifying test accuracy
+0.646017699115

@@ -1,0 +1,17 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Most Informative Features
+               challenge = 0              [1790, : [1990, =      8.2 : 1.0
+                     cut = 0              [1790, : [1990, =      8.1 : 1.0
+                spending = 0              [1790, : [1990, =      8.1 : 1.0
+                 believe = 0              [1790, : [1990, =      8.1 : 1.0
+                  social = 0              [1790, : [1990, =      8.1 : 1.0
+                    jobs = 0              [1790, : [1990, =      8.1 : 1.0
+                programs = 0              [1790, : [1990, =      8.1 : 1.0
+                      re = 0              [1790, : [1990, =      8.1 : 1.0
+                    help = 0              [1790, : [1990, =      8.0 : 1.0
+                     tax = 0              [1810, : [1990, =      7.7 : 1.0
+Assembling test feature sets...
+Classifying test accuracy
+0.575221238938

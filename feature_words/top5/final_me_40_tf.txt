@@ -1,0 +1,160 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Grad eval #0
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: rmatvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: matvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+  norm of gradient = 1.06064325095
+Function eval # 0
+  dual is  1.79175946923
+Function eval # 1
+  dual is  1.06521104831
+Grad eval #1
+  norm of gradient = 0.995386168554
+Iteration # 0
+Function eval # 2
+  dual is  1.06521104831
+Function eval # 3
+  dual is  0.615348655154
+Grad eval #2
+  norm of gradient = 0.913832668628
+Iteration # 1
+Function eval # 4
+  dual is  0.615348655154
+Function eval # 5
+  dual is  0.208838518111
+Grad eval #3
+  norm of gradient = 0.397650804092
+Iteration # 2
+Function eval # 6
+  dual is  0.208838518111
+Function eval # 7
+  dual is  0.130863813011
+Grad eval #4
+  norm of gradient = 0.134786603923
+Iteration # 3
+Function eval # 8
+  dual is  0.130863813011
+Function eval # 9
+  dual is  0.115222165474
+Grad eval #5
+  norm of gradient = 0.104627584469
+Function eval # 10
+  dual is  0.0968549510474
+Grad eval #6
+  norm of gradient = 0.188386858575
+Iteration # 4
+Function eval # 11
+  dual is  0.0968549510474
+Function eval # 12
+  dual is  0.068661329238
+Grad eval #7
+  norm of gradient = 0.112706063057
+Function eval # 13
+  dual is  0.0259236760378
+Grad eval #8
+  norm of gradient = 0.0403309745259
+Iteration # 5
+Function eval # 14
+  dual is  0.0259236760378
+Function eval # 15
+  dual is  0.0240539297572
+Grad eval #9
+  norm of gradient = 0.0327857249634
+Function eval # 16
+  dual is  0.0192058729414
+Grad eval #10
+  norm of gradient = 0.0188519323875
+Iteration # 6
+Function eval # 17
+  dual is  0.0192058729414
+Function eval # 18
+  dual is  0.0188563425415
+Grad eval #11
+  norm of gradient = 0.0182579350493
+Function eval # 19
+  dual is  0.0175694521712
+Grad eval #12
+  norm of gradient = 0.0165605430221
+Function eval # 20
+  dual is  0.0138663344251
+Grad eval #13
+  norm of gradient = 0.0176757468262
+Function eval # 21
+  dual is  0.0110377248674
+Grad eval #14
+  norm of gradient = 0.0295730528066
+Iteration # 7
+Function eval # 22
+  dual is  0.0110377248674
+Function eval # 23
+  dual is  0.0101387364161
+Grad eval #15
+  norm of gradient = 0.0252370739046
+Function eval # 24
+  dual is  0.00750351669768
+Grad eval #16
+  norm of gradient = 0.0130203324079
+Function eval # 25
+  dual is  0.00431060268563
+Grad eval #17
+  norm of gradient = 0.00952991973036
+Iteration # 8
+Function eval # 26
+  dual is  0.00431060268563
+Function eval # 27
+  dual is  0.00421612510098
+Grad eval #18
+  norm of gradient = 0.00920689834621
+Function eval # 28
+  dual is  0.00386409413152
+Grad eval #19
+  norm of gradient = 0.00801960335885
+Function eval # 29
+  dual is  0.00279517345992
+Grad eval #20
+  norm of gradient = 0.00464801162338
+Function eval # 30
+  dual is  0.00174403948977
+Grad eval #21
+  norm of gradient = 0.00235815353179
+Iteration # 9
+Function eval # 31
+  dual is  0.00174403948977
+Optimization terminated successfully.
+         Current function value: 0.001744
+         Iterations: 10
+         Function evaluations: 22
+         Gradient evaluations: 22
+  -1.826 soviet==0 and label is '[1950,1989]'
+  -1.219 industrial==0 and label is '[1910,1949]'
+   1.168 shall==0 and label is '[1990,2029]'
+   1.104 health==1 and label is '[1830,1869]'
+  -0.985 iraq==0 and label is '[1990,2029]'
+  -0.867 programs==0 and label is '[1950,1989]'
+  -0.859 gold==0 and label is '[1870,1909]'
+   0.850 world==0 and label is '[1790,1829]'
+   0.848 work==0 and label is '[1790,1829]'
+   0.818 tonight==0 and label is '[1910,1949]'
+   0.798 business==4 and label is '[1830,1869]'
+   0.788 american==0 and label is '[1790,1829]'
+   0.783 america==0 and label is '[1790,1829]'
+   0.780 let==0 and label is '[1870,1909]'
+  -0.769 commissioners==0 and label is '[1870,1909]'
+   0.765 budget==0 and label is '[1870,1909]'
+   0.759 state==2 and label is '[1910,1949]'
+  -0.758 program==0 and label is '[1950,1989]'
+   0.757 say==0 and label is '[1790,1829]'
+  -0.746 british==0 and label is '[1830,1869]'
+Assembling test feature sets...
+Classifying test accuracy
+0.787610619469
+Calculating precision and recall...
+[1790,1829] : (Precision=0.857142857143, Recall=0.9, F1=0.878048780488)
+[1830,1869] : (Precision=0.764705882353, Recall=0.65, F1=0.702702702703)
+[1870,1909] : (Precision=0.739130434783, Recall=0.85, F1=0.790697674419)
+[1910,1949] : (Precision=0.823529411765, Recall=0.7, F1=0.756756756757)
+[1950,1989] : (Precision=0.692307692308, Recall=0.857142857143, F1=0.765957446809)
+[1990,2029] : (Precision=1.0, Recall=0.75, F1=0.857142857143)

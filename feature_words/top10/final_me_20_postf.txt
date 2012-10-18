@@ -1,0 +1,353 @@
+Reading feature words...
+Assembling training feature sets...
+1790-Washington-1.txt
+1791-Washington.txt
+1793-Washington.txt
+1795-Washington.txt
+1797-Adams.txt
+1799-Adams.txt
+1801-Jefferson.txt
+1803-Jefferson.txt
+1805-Jefferson.txt
+1807-Jefferson.txt
+1809-Madison.txt
+1811-Madison.txt
+1813-Madison.txt
+1815-Madison.txt
+1817-Monroe.txt
+1819-Monroe.txt
+1821-Monroe.txt
+1823-Monroe.txt
+1825-JQAdams.txt
+1827-JQAdams.txt
+1829-Jackson.txt
+1831-Jackson.txt
+1833-Jackson.txt
+1835-Jackson.txt
+1837-VanBuren.txt
+1839-VanBuren.txt
+1841-Tyler.txt
+1843-Tyler.txt
+1845-Polk.txt
+1847-Polk.txt
+1849-Taylor.txt
+1851-Fillmore.txt
+1853-Pierce.txt
+1855-Pierce.txt
+1857-Buchanan.txt
+1859-Buchanan.txt
+1861-Lincoln.txt
+1863-Lincoln.txt
+1865-Johnson.txt
+1867-Johnson.txt
+1869-Grant.txt
+1871-Grant.txt
+1873-Grant.txt
+1875-Grant.txt
+1877-Hayes.txt
+1879-Hayes.txt
+1881-Arthur.txt
+1883-Arthur.txt
+1885-Cleveland.txt
+1887-Cleveland.txt
+1889-Harrison.txt
+1891-Harrison.txt
+1893-Cleveland.txt
+1895-Cleveland.txt
+1897-McKinley.txt
+1899-McKinley.txt
+1901-Roosevelt.txt
+1903-Roosevelt.txt
+1905-Roosevelt.txt
+1907-Roosevelt.txt
+1909-Taft.txt
+1911-Taft.txt
+1913-Wilson.txt
+1915-Wilson.txt
+1917-Wilson.txt
+1919-Wilson.txt
+1921-Harding.txt
+1923-Coolidge.txt
+1925-Coolidge.txt
+1927-Coolidge.txt
+1929-Hoover.txt
+1931-Hoover.txt
+1934-FDR.txt
+1936-FDR.txt
+1938-FDR.txt
+1940-FDR.txt
+1942-FDR.txt
+1944-FDR.txt
+1945-Truman.txt
+1947-Truman.txt
+1949-Truman.txt
+1951-Truman.txt
+1954-Eisenhower.txt
+1956-Eisenhower.txt
+1958-Eisenhower.txt
+1960-Eisenhower.txt
+1962-Kennedy.txt
+1963-Kennedy.txt
+1965-Johnson-1.txt
+1966-Johnson.txt
+1968-Johnson.txt
+1970-Nixon.txt
+1972-Nixon.txt
+1974-Nixon.txt
+1976-Ford.txt
+1978-Carter.txt
+1980-Carter.txt
+1982-Reagan.txt
+1984-Reagan.txt
+1986-Reagan.txt
+1988-Reagan.txt
+1990-Bush.txt
+1991-Bush-2.txt
+1993-Clinton.txt
+1995-Clinton.txt
+1997-Clinton.txt
+1999-Clinton.txt
+2001-GWBush-1.txt
+2002-GWBush.txt
+2004-GWBush.txt
+2006-GWBush.txt
+2008-GWBush.txt
+2009-Obama-2.txt
+Training classifier...
+Grad eval #0
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: rmatvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+C:\Python26\lib\site-packages\numpy\lib\utils.py:108: DeprecationWarning: matvec is deprecated
+  warnings.warn(str1, DeprecationWarning)
+  norm of gradient = 1.29222824468
+Function eval # 0
+  dual is  2.3978952728
+Function eval # 1
+  dual is  1.32849793356
+Grad eval #1
+  norm of gradient = 1.73686725802
+Iteration # 0
+Function eval # 2
+  dual is  1.32849793356
+Function eval # 3
+  dual is  0.60409800899
+Grad eval #2
+  norm of gradient = 1.25266401335
+Iteration # 1
+Function eval # 4
+  dual is  0.60409800899
+Function eval # 5
+  dual is  0.17035827573
+Grad eval #3
+  norm of gradient = 0.675981789202
+Iteration # 2
+Function eval # 6
+  dual is  0.17035827573
+Function eval # 7
+  dual is  0.0196835168834
+Grad eval #4
+  norm of gradient = 0.0603451548765
+Iteration # 3
+Function eval # 8
+  dual is  0.0196835168834
+Function eval # 9
+  dual is  0.0168346991229
+Grad eval #5
+  norm of gradient = 0.0372336982663
+Function eval # 10
+  dual is  0.0159523382749
+Grad eval #6
+  norm of gradient = 0.0564079733702
+Function eval # 11
+  dual is  0.014624941627
+Grad eval #7
+  norm of gradient = 0.0286222284384
+Iteration # 4
+Function eval # 12
+  dual is  0.014624941627
+Function eval # 13
+  dual is  0.0138534821673
+Grad eval #8
+  norm of gradient = 0.0246805256131
+Function eval # 14
+  dual is  0.0116490827495
+Grad eval #9
+  norm of gradient = 0.0164977725092
+Function eval # 15
+  dual is  0.0108648617216
+Grad eval #10
+  norm of gradient = 0.0402250808315
+Iteration # 5
+Function eval # 16
+  dual is  0.0108648617216
+Function eval # 17
+  dual is  0.00993459180031
+Grad eval #11
+  norm of gradient = 0.034865598402
+Function eval # 18
+  dual is  0.00756610056869
+Grad eval #12
+  norm of gradient = 0.0226489130691
+Iteration # 6
+Function eval # 19
+  dual is  0.00756610056869
+Function eval # 20
+  dual is  0.00708760324587
+Grad eval #13
+  norm of gradient = 0.0196833365774
+Function eval # 21
+  dual is  0.00575317500805
+Grad eval #14
+  norm of gradient = 0.0110800246428
+Function eval # 22
+  dual is  0.00643608174615
+Grad eval #15
+  norm of gradient = 0.0230309435762
+Function eval # 23
+  dual is  0.00500363762588
+Grad eval #16
+  norm of gradient = 0.00771220464104
+Iteration # 7
+Function eval # 24
+  dual is  0.00500363762588
+Optimization terminated successfully.
+         Current function value: 0.005004
+         Iterations: 8
+         Function evaluations: 17
+         Gradient evaluations: 17
+   0.604 shall/MD==0 and label is '[1990,2009]'
+  -0.592 gentlemen/NNP==0 and label is '[1790,1809]'
+  -0.592 coverage/NN==0 and label is '[1990,2009]'
+   0.555 many/JJ==1 and label is '[1790,1809]'
+  -0.541 soviet/NNP==0 and label is '[1970,1989]'
+   0.540 american/NNP==0 and label is '[1790,1809]'
+   0.494 america/NNP==0 and label is '[1790,1809]'
+  -0.489 jobs/NNS==0 and label is '[1990,2009]'
+   0.488 business/NN==0 and label is '[1810,1829]'
+  -0.486 terror/NN==0 and label is '[1990,2009]'
+  -0.477 jobs/NNS==0 and label is '[1970,1989]'
+  -0.477 iraq/NNP==0 and label is '[1990,2009]'
+   0.474 make/VB==0 and label is '[1790,1809]'
+   0.472 powers/NNS==0 and label is '[1990,2009]'
+  -0.460 weapons/NNS==0 and label is '[1950,1969]'
+   0.449 action/NN==0 and label is '[1790,1809]'
+  -0.441 industrial/JJ==0 and label is '[1930,1949]'
+   0.436 government/NN==1 and label is '[1790,1809]'
+   0.432 president/NNP==0 and label is '[1790,1809]'
+  -0.426 billion/CD==0 and label is '[1970,1989]'
+Assembling test feature sets...
+1790-Washington-2.txt
+1792-Washington.txt
+1794-Washington.txt
+1796-Washington.txt
+1798-Adams.txt
+1800-Adams.txt
+1802-Jefferson.txt
+1804-Jefferson.txt
+1806-Jefferson.txt
+1808-Jefferson.txt
+1810-Madison.txt
+1812-Madison.txt
+1814-Madison.txt
+1816-Madison.txt
+1818-Monroe.txt
+1820-Monroe.txt
+1822-Monroe.txt
+1824-Monroe.txt
+1826-JQAdams.txt
+1828-JQAdams.txt
+1830-Jackson.txt
+1832-Jackson.txt
+1834-Jackson.txt
+1836-Jackson.txt
+1838-VanBuren.txt
+1840-VanBuren.txt
+1842-Tyler.txt
+1844-Tyler.txt
+1846-Polk.txt
+1848-Polk.txt
+1850-Fillmore.txt
+1852-Fillmore.txt
+1854-Pierce.txt
+1856-Pierce.txt
+1858-Buchanan.txt
+1860-Buchanan.txt
+1862-Lincoln.txt
+1864-Lincoln.txt
+1866-Johnson.txt
+1868-Johnson.txt
+1870-Grant.txt
+1872-Grant.txt
+1874-Grant.txt
+1876-Grant.txt
+1878-Hayes.txt
+1880-Hayes.txt
+1882-Arthur.txt
+1884-Arthur.txt
+1886-Cleveland.txt
+1888-Cleveland.txt
+1890-Harrison.txt
+1892-Harrison.txt
+1894-Cleveland.txt
+1896-Cleveland.txt
+1898-McKinley.txt
+1900-McKinley.txt
+1902-Roosevelt.txt
+1904-Roosevelt.txt
+1906-Roosevelt.txt
+1908-Roosevelt.txt
+1910-Taft.txt
+1912-Taft.txt
+1914-Wilson.txt
+1916-Wilson.txt
+1918-Wilson.txt
+1920-Wilson.txt
+1922-Harding.txt
+1924-Coolidge.txt
+1926-Coolidge.txt
+1928-Coolidge.txt
+1930-Hoover.txt
+1932-Hoover.txt
+1935-FDR.txt
+1937-FDR.txt
+1939-FDR.txt
+1941-FDR.txt
+1943-FDR.txt
+1945-FDR.txt
+1946-Truman.txt
+1948-Truman.txt
+1950-Truman.txt
+1953-Eisenhower.txt
+1955-Eisenhower.txt
+1957-Eisenhower.txt
+1959-Eisenhower.txt
+1961-Kennedy.txt
+1963-Johnson.txt
+1964-Johnson.txt
+1965-Johnson-2.txt
+1967-Johnson.txt
+1969-Johnson.txt
+1971-Nixon.txt
+1973-Nixon.txt
+1975-Ford.txt
+1977-Ford.txt
+1979-Carter.txt
+1981-Reagan.txt
+1983-Reagan.txt
+1985-Reagan.txt
+1987-Reagan.txt
+1989-Bush.txt
+1991-Bush-1.txt
+1992-Bush.txt
+1994-Clinton.txt
+1996-Clinton.txt
+1998-Clinton.txt
+2000-Clinton.txt
+2001-GWBush-2.txt
+2003-GWBush.txt
+2005-GWBush.txt
+2007-GWBush.txt
+2009-Obama-1.txt
+2010-Obama.txt
+Classifying test accuracy
+0.663716814159

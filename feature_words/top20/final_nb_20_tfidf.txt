@@ -1,0 +1,17 @@
+Reading feature words...
+Assembling training feature sets...
+Training classifier...
+Most Informative Features
+                 chamber = 0.0            [1790, : [1990, =      8.2 : 1.0
+               challenge = 0.0            [1790, : [1990, =      8.2 : 1.0
+                 parents = 0.0            [1790, : [1990, =      8.2 : 1.0
+                   thank = 0.0            [1790, : [1990, =      8.2 : 1.0
+                    goal = 0.0            [1790, : [1990, =      8.1 : 1.0
+                     cut = 0.0            [1790, : [1990, =      8.1 : 1.0
+                spending = 0.0            [1790, : [1990, =      8.1 : 1.0
+                    jobs = 0.0            [1790, : [1990, =      8.1 : 1.0
+                  social = 0.0            [1790, : [1990, =      8.1 : 1.0
+                programs = 0.0            [1790, : [1990, =      8.1 : 1.0
+Assembling test feature sets...
+Classifying test accuracy
+0.318584070796
